@@ -6,7 +6,7 @@
 
 ## 攻略 兼济天下
 * 如何[帮助透支的居委](https://raynardj.github.io/cv19survive/juwei_help.html)
-* 如过[解决堵塞的反馈渠道](https://raynardj.github.io/cv19survive/communication.html)
+* 如何[解决堵塞的反馈渠道](https://raynardj.github.io/cv19survive/communication.html)
 
 ### 志愿者相关
 * [海上指南针团队志愿者招募 石墨文档](https://shimo.im/forms/1lq7M5VXoDSdGXAe/fill)
