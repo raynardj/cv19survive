@@ -13,9 +13,11 @@
 
 ## 攻略 兼济天下
 * 如何[帮助透支的居委](https://raynardj.github.io/cv19survive/juwei_help.html)
+* [海上指南针团队志愿者招募 石墨文档](https://shimo.im/forms/1lq7M5VXoDSdGXAe/fill)
+* [NCP生命支援@上海 志愿者报名登记 石墨文档](https://shimo.im/forms/rfKgVwB8wugIaHIL/fill)
 * 志愿者[话术攻略](https://raynardj.github.io/cv19survive/script.html)
 
-欢迎发邮件至 b2ray2c@gmail.com 投稿， 
+欢迎发邮件至 b2ray2c@gmail.com 投稿
 ## 希望能收到更多的
 * 好的操作方法 做的好的那些小区的居民和基层有什么方法？
 * 好的资源链接
