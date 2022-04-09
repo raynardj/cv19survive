@@ -1,4 +1,5 @@
 # 如果接到疾控电话，要被运到方舱，应准备什么
+> 去[主页](https://raynardj.github.io/cv19survive/）查看其他攻略
 
 ## 去方舱带什么
 > 目前了解下来带上这些会比较方便， [欢迎提出补充和修改](https://github.com/raynardj/cv19survive/issues/1)
