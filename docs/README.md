@@ -12,3 +12,9 @@
 ## 攻略 兼济天下篇
 * 如何[帮助透支的居委](https://raynardj.github.io/cv19survive/juwei_help.html)
 * 志愿者[话术攻略](https://raynardj.github.io/cv19survive/script.html)
+
+欢迎发邮件至 b2ray2c@gmail.com 投稿， 
+## 希望能收到更多的
+* 好的操作方法 做的好的那些小区的居民和基层有什么方法？
+* 好的资源链接
+* 如提供姓名， 将会被收录在投稿名单中 
