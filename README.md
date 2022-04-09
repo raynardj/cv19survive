@@ -4,11 +4,18 @@
 
 万事都有技术和方法论， 上海、乃至国家都积蓄着大量人才储备， 希望有心有力的人事可以持续搭建和完善。
 
-## 攻略 独善其身篇
+## 攻略 独善其身
 * 如何[找到社区群](https://raynardj.github.io/cv19survive/find_group.html)
 * 如果接到疾控电话，要被运到方舱，[应准备什么](https://raynardj.github.io/cv19survive/fangcang_prepare.html)。
 * [官方实用信息汇总](https://raynardj.github.io/cv19survive/gov_help.html)
+* [宠物互助信息 腾讯文档](https://docs.qq.com/sheet/DRUJiRHhBR0FhbmdN?tab=BB08J2&scode=)
 
-## 攻略 兼济天下篇
+## 攻略 兼济天下
 * 如何[帮助透支的居委](https://raynardj.github.io/cv19survive/juwei_help.html)
 * 志愿者[话术攻略](https://raynardj.github.io/cv19survive/script.html)
+
+欢迎发邮件至 b2ray2c@gmail.com 投稿， 
+## 希望能收到更多的
+* 好的操作方法 做的好的那些小区的居民和基层有什么方法？
+* 好的资源链接
+* 如提供姓名， 将会被收录在投稿名单中 
