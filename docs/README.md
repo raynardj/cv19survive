@@ -10,4 +10,4 @@
 
 ## 攻略 兼济天下篇
 * 如何[帮助透支的居委](https://raynardj.github.io/cv19survive/juwei_help.html)
-* 志愿者话术攻略
+* 志愿者[话术攻略](https://raynardj.github.io/cv19survive/script.html)
