@@ -1,7 +1,7 @@
 # 如何找到社区群
 > 社区团购是上海此次疫情经证实最靠谱的食品、生活用品的采购方式
 
-> 去[主页](https://raynardj.github.io/cv19survive/）查看其他攻略
+> 去[主页](https://raynardj.github.io/cv19survive/)查看其他攻略
 
 ## 加群和采购攻略
 > 可以试试以下方式， [欢迎补充](https://github.com/raynardj/cv19survive/issues/2)

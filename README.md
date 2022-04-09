@@ -1,6 +1,6 @@
 # 上海疫情生存和生活攻略
 > 惧怕和愤怒没有任何的生产力， 有手有脚的市民们、上班族们、工程师们， 加入一起改善这一切， 和官方、基层一起尽快走出这次疫情
 
-> 去[主页](https://raynardj.github.io/cv19survive/）查看其他攻略
+> 去[主页](https://raynardj.github.io/cv19survive/)查看其他攻略
 
 
