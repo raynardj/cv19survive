@@ -5,9 +5,9 @@
 万事都有技术和方法论， 上海、乃至国家都积蓄着大量人才储备， 希望有心有力的人事可以持续搭建和完善。
 
 ## 攻略 独善其身篇
-* 如何[找到社区群](find_group.md)
-* 如果接到疾控电话，要被运到方舱，[应准备什么](fangcang_prepare.md)。
+* 如何[找到社区群](https://raynardj.github.io/cv19survive/find_group.html)
+* 如果接到疾控电话，要被运到方舱，[应准备什么](https://raynardj.github.io/cv19survive/fangcang_prepare.html)。
 
 ## 攻略 兼济天下篇
-* 如何[帮助透支的居委](juwei_help.md)
+* 如何[帮助透支的居委](https://raynardj.github.io/cv19survive/juwei_help.html)
 * 志愿者话术攻略

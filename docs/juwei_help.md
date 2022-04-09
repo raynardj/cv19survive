@@ -1,6 +1,8 @@
 # 如何给居委解压
 > 此次疫情下， 许多居委会都是十来个人不到的班子， 需要管理上千人社区的吃喝就医，管理核酸、抗体检测， 阳性和密接人员的转运， 不堪负荷。
 
+> 去[主页](https://raynardj.github.io/cv19survive/)查看其他攻略
+
 大家可以在这个[我是居委，我们现在最继续的帮助是](https://github.com/raynardj/cv19survive/issues/3) issue下补充
 
 * 小区自我组织群、团购， 自我消化大部分食物和生活必需品的保供任务。见[如何找到社区群](https://raynardj.github.io/cv19survive/find_group.html)
